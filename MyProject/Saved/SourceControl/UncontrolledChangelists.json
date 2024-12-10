@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2chaga63/Downloads/git/unrealgamemulti/MyProject/Content/Animations/Animations/Walk_Crouching_Right.uasset",
+				"C:/Users/2chaga63/Downloads/git/unrealgamemulti/MyProject/Content/Animations/LocomotionCrouch_BS.uasset",
+				"C:/Users/2chaga63/Downloads/git/unrealgamemulti/MyProject/Content/NewMap.umap",
 				"D:/github/unrealgamemulti/MyProject/Content/BP/BP_PlayerCharacter.uasset",
 				"D:/github/unrealgamemulti/MyProject/Content/BP/BP_Gamemode.uasset",
 				"D:/github/unrealgamemulti/MyProject/Content/Animations/Locomotion_BS.uasset",
