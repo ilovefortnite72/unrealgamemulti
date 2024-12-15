@@ -1,0 +1,5 @@
+[1212/134420.423:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[1212/134423.943:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1212/134620.613:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1212/145101.379:ERROR:dns_config_service.cc(259)] DNS config watch failed.
+[1212/145101.380:ERROR:dns_config_service.cc(259)] DNS config watch failed.
